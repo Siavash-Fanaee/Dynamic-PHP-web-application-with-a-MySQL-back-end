@@ -1,4 +1,4 @@
-The third and last part a the college Web Design project to design and created a dynamic PHP web application with a MySQL back-end containing the following features: C.R.U.D. pages, user access control using sessions, dynamic navigation bars, CSS or a related Framework, modular code design and develop an admin system to manage the dynamic content of the website. Project Link: https://knuth.griffith.ie/~s3019365/ (Admin User and Pass is available upon request)
+The third and last part a the college Web Design project to design and created a dynamic PHP web application with a MySQL back-end containing the following features: C.R.U.D. pages, user access control using sessions, dynamic navigation bars, CSS or a related Framework, modular code design and develop an admin system to manage the dynamic content of the website. Project Link: https://knuth.griffith.ie/~s3019365/ (Admin User and Password is available upon request)
 
 ![1](https://user-images.githubusercontent.com/81959222/123494036-b4cde280-d633-11eb-85f4-f3c93d002104.png)
 
